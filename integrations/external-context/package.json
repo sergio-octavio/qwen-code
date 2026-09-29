@@ -31,13 +31,13 @@
   ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.30.0",
-    "undici": "^7.28.0",
+    "undici": "^7.29.1",
     "zod": "^3.25.0"
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
     "ajv": "^8.17.1",
     "typescript": "^5.4.5",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   }
 }
